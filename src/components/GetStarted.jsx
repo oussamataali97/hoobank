@@ -15,8 +15,7 @@ const GetStarted = () => {
             </div>
             <p className='text-[18px] leading-[23px]'>
                     <span className='text-gradient text-[18px] leading-[23px]'>Started</span>
-                   
-                </p>
+            </p>
         </div>
     </div>
   )
